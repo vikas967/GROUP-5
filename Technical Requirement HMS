@@ -1,0 +1,25 @@
+Programming Language:
+
+C++ (Object-Oriented Design)
+Use of STL (Standard Template Library) for collections (like vector, map)
+Database Integration:
+
+Use MySQL Connector/C++ or SQLite for persistent storage
+SQL queries for CRUD operations on patient, doctor, and billing records
+User Interface (UI):
+
+Console-based UI (initial phase)
+Option to extend to GUI using Qt or wxWidgets (for future development)
+Multi-threading:
+
+Optional: Use threads (via std::thread) to handle background tasks (e.g., report generation)
+File Handling:
+
+Use file I/O (fstream) for logging and backup
+Error Handling:
+
+Exception handling (try-catch) for database connections and file operations
+Security:
+
+Use basic encryption (like hashing) for sensitive data (e.g., passwords)
+Implement role-based access control (e.g., Admin, Doctor, Receptionist)

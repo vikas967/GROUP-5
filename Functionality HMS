@@ -1,0 +1,22 @@
+•	Patient Registration & Record Management: Patients can be registered with basic information, medical history, and current health details. All records are encrypted for security and privacy.
+
+
+•	Doctor-Patient Interaction: Doctors can access patient records, update treatments, and communicate directly with patients through the system.
+
+
+•	Appointment Scheduling: Patients can book appointments online or through hospital staff. The system provides real-time availability of doctors and sends automated reminders.
+
+
+•	Medical Billing & Payments: Automated calculations for consultations, treatments, and medications, along with digital invoices. Integration with Stripe for seamless online payments.
+
+
+•	Inventory Management: Track medicines and medical equipment in real-time, with automatic notifications for low stock and reordering.
+
+
+•	Secure Health Data Sharing: Using blockchain technology, patients can share anonymized data for research, ensuring privacy and transparency.
+
+
+•	Resource Management: Manage room availability, operation theaters, and staff schedules effectively through a centralized interface.
+
+
+•	Telemedicine: Doctors can conduct video consultations, review medical records, and prescribe medicines remotely.
